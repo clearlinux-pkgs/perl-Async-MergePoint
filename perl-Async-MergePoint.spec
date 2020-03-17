@@ -4,7 +4,7 @@
 #
 Name     : perl-Async-MergePoint
 Version  : 0.04
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 Summary  : 'resynchronise diverged control flow'
@@ -100,4 +100,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Async/MergePoint.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Async/MergePoint.pm
