@@ -7,7 +7,7 @@
 #
 Name     : perl-Async-MergePoint
 Version  : 0.04
-Release  : 28
+Release  : 29
 URL      : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/P/PE/PEVANS/Async-MergePoint-0.04.tar.gz
 Summary  : 'resynchronise diverged control flow'
